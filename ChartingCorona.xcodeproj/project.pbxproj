@@ -13,6 +13,7 @@
 		9D5A27F92430A97E0047BA4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D5A27F82430A97E0047BA4C /* Assets.xcassets */; };
 		9D5A27FC2430A97E0047BA4C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D5A27FB2430A97E0047BA4C /* Preview Assets.xcassets */; };
 		9D5A27FF2430A97E0047BA4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D5A27FD2430A97E0047BA4C /* LaunchScreen.storyboard */; };
+		9D5A28082430C4B60047BA4C /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D5A28072430C4B60047BA4C /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9D5A27FB2430A97E0047BA4C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9D5A27FE2430A97E0047BA4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D5A28002430A97E0047BA4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D5A28072430C4B60047BA4C /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				9D5A27F82430A97E0047BA4C /* Assets.xcassets */,
 				9D5A27FD2430A97E0047BA4C /* LaunchScreen.storyboard */,
 				9D5A28002430A97E0047BA4C /* Info.plist */,
+				9D5A28072430C4B60047BA4C /* screenshot.png */,
 				9D5A27FA2430A97E0047BA4C /* Preview Content */,
 			);
 			path = ChartingCorona;
@@ -136,6 +139,7 @@
 				9D5A27FF2430A97E0047BA4C /* LaunchScreen.storyboard in Resources */,
 				9D5A27FC2430A97E0047BA4C /* Preview Assets.xcassets in Resources */,
 				9D5A27F92430A97E0047BA4C /* Assets.xcassets in Resources */,
+				9D5A28082430C4B60047BA4C /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
